@@ -269,3 +269,7 @@
 .space {
   height: 500px;
 }
+
+.rotate{
+  transform: rotate(180deg);
+}
